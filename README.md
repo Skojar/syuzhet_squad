@@ -1,1 +1,4 @@
-# syuzhet_squad
+The Syuzheteers
+===============
+
+The Syuzheteers is a GMful storymaking game.
