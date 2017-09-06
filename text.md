@@ -25,8 +25,10 @@ the face describes them and indicated their durability.
 the reverse indicates the kind of problem that 
 if they have no durability, they're advantages.
 
+Relationships between main characters and between them and the principal are a special kind of resoource.
+
 # Actions
-### Rolls
+### Resolving Questions with Rolls
 The core means of determining how a beat or question is resolved is the roll.  The active character will roll a number of `start` and `stop` dice, with other players influencing the number of dice and the interpretation of the result, as follows:
 1. Start by determining the number of `start` dice to roll.
     1. Is the character doing something she is good at?  If so, add one `start` die.
@@ -53,14 +55,21 @@ The core means of determining how a beat or question is resolved is the roll.  T
 ### Lead by Proxy
 ### Lend a Hand
 ### Make an Entrance
+i.e. jump in to save the day, taking the complication from a bought success onto yourself?
 ### Dialogue
+i.e. two characters working on a complication.
 ### Monologues
+i.e. a character working on her own complications, without anyone else present.
 ### Chorus
+i.e. two or more minor characters interacting with each other.  Can change conditions for main characters, like make a timeskip of location change, or change context.
 ### Flashback
 If you have a boon or resource you'd like to spend to help or hinder the character at center stage, describe how it impacts the current beat.  If it's a boon, turn it over and add it to the bottom of the plot. If it's a resource, `strain it`.  In either case, either a single `start` or `stop` die to the roll.
 
 You can retroactively create a resource or advantage by spending a `banked point`.  Describe how you prepared for this moment and roll
 ### Exit Stage Left
+i.e. mark yourself an unoccupied after already acting in a scene.
+### Delay the Inevitable
+i.e. skip the remaining beats on a challenge by moving it to the bottom of the plot.
 
 
 # The Play
