@@ -1,4 +1,5 @@
 # What is Syuzheteers?
+Сюжетисты
 # What you need to play?
 ### Players
 GM?
@@ -16,16 +17,50 @@ GM?
 #### Vulnerabilities
 ### Main Characters
 ### Additional Cast
-### Option: Principal 
+### Option: Principal
+
+# Resources & Advantages
+people places things
+the face describes them and indicated their durability.
+the reverse indicates the kind of problem that 
+if they have no durability, they're advantages.
+
 # Actions
+### Rolls
+The core means of determining how a beat or question is resolved is the roll.  The active character will roll a number of `start` and `stop` dice, with other players influencing the number of dice and the interpretation of the result, as follows:
+1. Start by determining the number of `start` dice to roll.
+ 1. Is the character doing something she is good at?  If so, add one `start` die.
+ 1. Is the character doing something that is her `thing`?  If so, add one `start` die.
+ 1. Add one `start` die for each character who prepared for this moment.  See `Flashback` below.
+ 1. If you haven't added any dice, add one.  You should always roll at least one `start` die.
+1. Roll your `start` dice.  Record the highest result.  If multiple sixes are showing, bank a number of `points` equal to how many extras there are.
+1. Determine the number of `stop` dice to roll.
+ 1. Is the character taking a risk?  i.e. will failure, fictionally, be bad for the character?  If so, add one `stop` die.
+ 1. Is the character doing something that is, for whatever reason, difficult for her in particular?  If so, add one `stop` die.
+ 1. Add one `stop` die for each relevant complication active on the character.
+ 1. If you haven't added any dice, add one.  You should always roll at least one `stop` die.
+1.  Roll your `stop` dice.  Add the lowest result shown to the result from your `start` dice roll.
+ 1. The default target is eight (8). If there are any obstacles in the way, add one to that target for each.
+ 1. Other players may choose to `lend a hand` at this time to decrease the target.
+ 1. If your `start` result plus your `stop` result meet or exceed the target, the action is successful. Describe how the beat goes as you had hoped.
+ 1. If by elimiating any number of `stop` dice would lead to a success, and the player has remaining `vulnerabilities`, the player may choose to buy a success.
+  1. Introduce a complication with a rating equal to the number of dice being eliminated.
+  1. Describe how the beat goes as you had hoped despite the costs.
+ 1. If it is not possible to buy a success, or the player chooses not to, then add an obstacle to the challenge.
+1. Regardless of the outcome, the player marks experience equal to the number of `stop` dice less the number of `start` dice.
+
 ### Monologues
 ### Chorus
 ### Take Center Stage
+### Lead by Proxy
 ### Lend a Hand
 ### Dialogue
+### Flashback
+If you have a boon or resource you'd like to spend to help or hinder the character at center stage, describe how it impacts the current beat.  If it's a boon, turn it over and add it to the bottom of the plot. If it's a resource, `strain it`.  In either case, either a single `start` or `stop` die to the roll.
+
+You can retroactively create a resource or advantage by spending a `banked point`.  Describe how you prepared for this moment and roll
 ### Exit
-# Resources
-people places things
+
 # The Play
 ### Prologue
  challenges
