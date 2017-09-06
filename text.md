@@ -1,4 +1,7 @@
-# Equipment
+# What is Syuzheteers?
+# What you need to play?
+# Players
+GM?
 # Dice
 # Cards
 # Tokens, Markers, Counters and Pawns
