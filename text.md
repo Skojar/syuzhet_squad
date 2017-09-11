@@ -15,6 +15,7 @@ GM?
 ### Elements of a Character
 #### Their Thing
 #### Vulnerabilities
+#### Rally
 ### Main Characters
 ### Additional Cast
 ### Option: Principal
