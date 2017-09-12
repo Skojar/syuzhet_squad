@@ -13,8 +13,8 @@ GM?
 
 # Dramatis Personæ
 ### Elements of a Character
-#### Their Thing
-#### Vulnerabilities
+#### Signature
+#### Vulnerabilities (crises?)
 #### Rally
 ### Main Characters
 ### Additional Cast
