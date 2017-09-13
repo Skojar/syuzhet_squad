@@ -36,6 +36,7 @@ Relationships between main characters and between them and the principal are a s
     
 # Challenges, Obstacles and Hurdles
 ## Types of Challenges
+These are prompts from which the core story will be developed.  They are the roots of the tree.
     * Dilemma:  a character needs to decide between two paths
     * Desire: a character wants something that may be difficult to acquire
     * Destination: a character wants to get somewhere
@@ -44,7 +45,7 @@ Relationships between main characters and between them and the principal are a s
     * Exigency: events demand action from the character
     * Rival: someone challenges the character's status quo
 ## Types of Complications
-angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed
+angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed, conflicted
 ## Types of Hurdles
 trapped, crippled, unconscious, despondent
     
