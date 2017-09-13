@@ -39,6 +39,7 @@ Relationships between main characters and between them and the principal are a s
 # Challenges, Obstacles and Hurdles
 ## Types of Challenges
 These are prompts from which the core story will be developed.  They are the roots of the tree.
+
     * Dilemma:  a character needs to decide between two paths
     * Desire: a character wants something that may be difficult to acquire
     * Destination: a character wants to get somewhere
