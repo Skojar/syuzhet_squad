@@ -11,9 +11,11 @@ GM?
 * **point:** maybe a couple dozen, small stones or poker chips
 * do these cover gear, intel?
 
-# Principles
+# Principles & Design Goals
 * Nothing matters except in how it relates to the players
-* Any consistency or effort ot simulate any aspect of reality should be relegated to the fiction
+* Consistency and simulation is 'flavor' and relegated to the fiction
+* The *fabula* is a product of play.
+* Get characters into the trouble appropriate to them, and explore how they get themselves and each other out of that trouble.
 
 # Dramatis Personæ
 ### Elements of a Character
