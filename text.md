@@ -11,6 +11,10 @@ GM?
 * **point:** maybe a couple dozen, small stones or poker chips
 * do these cover gear, intel?
 
+# Principles
+* Nothing matters except in how it relates to the players
+* Any consistency or effort ot simulate any aspect of reality should be relegated to the fiction
+
 # Dramatis Personæ
 ### Elements of a Character
 #### Signature
@@ -87,14 +91,20 @@ WRONG! adding to another character's conditions is a subset of `dialogue`!
         (personal challenges put in place by other players?
    *
 ### Prologue
-characters are in a zone of comfort
+-characters are in a zone of comfort
+-discover what they want
  introduce challenges and themes
  rank them
 ### Act I
+-enter an unfamiliar situation to get what they want
  go through each challenge quickly, converting some to resoures for use later
 ### Act II
+- adapt to the unfamiliar situation
  go through each challenge slowly, wearing them down to a few
 ### Act III
+- get what you want
+- pay a heavy price
  lay out the remaining challenges and address them freely
 ### Epilogue
+- return to the familiar, having changed
  assess the results, explore how the characters have changed. (spend rewards)
