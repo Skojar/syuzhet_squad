@@ -14,19 +14,21 @@ GM?
 # Dramatis Personæ
 ### Elements of a Character
 #### Signature
-#### Vulnerabilities (crises?)
+#### Vulnerabilities (crises?) Inclinations
 #### Rally
 ### Main Characters
 ### Additional Cast
 ### Option: Principal
+### Option: Antagonism (Personal Challenges)
 
-# Resources & Advantages
-people places things
+# Resources & Advantages (Assets?)
+people places things ideas
 the face describes them and indicated their durability.
 the reverse indicates the kind of problem that 
 if they have no durability, they're advantages.
 
-Relationships between main characters and between them and the principal are a special kind of resoource.
+Relationships between main characters and between them and the principal are a special kind of resource.
+    What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
 
 # Actions
 ### Resolving Questions with Rolls
@@ -72,12 +74,27 @@ i.e. mark yourself an unoccupied after already acting in a scene.
 ### Delay the Inevitable
 i.e. skip the remaining beats on a challenge by moving it to the bottom of the plot.
 
+partial successes essentially move obstacle points to character.  What would the reverse equivalent be?  
+~This is needed to allow for adversarial relationships~
+WRONG! adding to another character's conditions is a subset of `dialogue`!
+
 
 # The Play
+##Types of play
+   * a team against shared challenges
+   * a team supporting a principal
+   * characters facing both shared and personal challenges
+        (personal challenges put in place by other players?
+   *
 ### Prologue
- challenges
- themes
+characters are in a zone of comfort
+ introduce challenges and themes
+ rank them
 ### Act I
+ go through each challenge quickly, converting some to resoures for use later
 ### Act II
+ go through each challenge slowly, wearing them down to a few
 ### Act III
+ lay out the remaining challenges and address them freely
 ### Epilogue
+ assess the results, explore how the characters have changed. (spend rewards)
