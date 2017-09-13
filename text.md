@@ -20,10 +20,10 @@ GM?
 #### Signature
 #### Vulnerabilities (crises?) Inclinations
 #### Rally
+#### Destiny (you level this up)
 ### Main Characters
 ### Additional Cast
 ### Option: Principal
-### Option: Antagonism (Personal Challenges)
 
 # Resources & Advantages (Assets?)
 people places things ideas
@@ -33,6 +33,20 @@ if they have no durability, they're advantages.
 
 Relationships between main characters and between them and the principal are a special kind of resource.
     What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
+    
+# Conflicts, Crises, Obstacles and Complications
+## Types of Crises
+    * Dilemma:  a character needs to decide between two paths
+    * Desire: a character wants something that may be difficult to acquire
+    * Destination: a character wants to get somewhere
+    * Discovery: a character must come to terms with new information
+    * Mystery: a character seeks the answer to a question
+    * Exigency: events demand action from the character
+    * Rival: someone challenges the character's status quo
+## Types of Complications
+angry, upset, shaken, despondent, depressed, disarmed, disconnected, confused, trapped, vulnerable, unconscious, obsessed, injured, crippled, distracted, embarassed
+    
+
 
 # Actions
 ### Resolving Questions with Rolls
@@ -55,7 +69,16 @@ The core means of determining how a beat or question is resolved is the roll.  T
     * If by elimiating any number of `stop` dice would lead to a success, and the player has remaining `vulnerabilities`, the player may choose to **buy a success**.
         * take a complication with a rating equal to the number of dice being eliminated.
         * Describe how the beat goes as you had hoped despite the costs.
-    * If it is not possible to buy a success, or the player chooses not to, then add an obstacle to the challenge.
+    * If it is not possible to buy a success, or the player chooses not to, then you fail:
+    
+        | If you're addressing... | ...then a failure means |
+        |:---:|:---:|
+        | challenge | a new obstacle |
+        | obstacle | a new personal challenge |
+        | personal challenge | a new condition  |
+        | condition | strain the relationship?  |
+
+        
 1. Regardless of the outcome, the player marks experience equal to the number of `stop` dice less the number of `start` dice.
 
 ### Take Center Stage
@@ -77,7 +100,7 @@ You can retroactively create a resource or advantage by spending a `banked point
 i.e. mark yourself an unoccupied after already acting in a scene.
 ### Delay the Inevitable
 i.e. skip the remaining beats on a challenge by moving it to the bottom of the plot.
-### Antagonize
+### Antagonize 
 i.e. create a personal challenge for another player's primary character
 
 partial successes essentially move obstacle points to character.  What would the reverse equivalent be?  
@@ -87,7 +110,7 @@ WRONG! adding to another character's conditions is a subset of `dialogue`!
 
 # The Play
 ##Types of play
-   * a team against shared challenges
+   * a party of heroes against shared challenges
    * a team supporting a principal
    * characters facing both shared and personal challenges, wherein players can be antagonistic
 ### Prologue
