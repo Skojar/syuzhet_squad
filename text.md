@@ -53,7 +53,7 @@ The core means of determining how a beat or question is resolved is the roll.  T
     * Other players may choose to `lend a hand` at this time to decrease the target.
     * If your `start` result plus your `stop` result meet or exceed the target, the action is successful. Describe how the beat goes as you had hoped.
     * If by elimiating any number of `stop` dice would lead to a success, and the player has remaining `vulnerabilities`, the player may choose to **buy a success**.
-        * Introduce a complication with a rating equal to the number of dice being eliminated.
+        * take a complication with a rating equal to the number of dice being eliminated.
         * Describe how the beat goes as you had hoped despite the costs.
     * If it is not possible to buy a success, or the player chooses not to, then add an obstacle to the challenge.
 1. Regardless of the outcome, the player marks experience equal to the number of `stop` dice less the number of `start` dice.
