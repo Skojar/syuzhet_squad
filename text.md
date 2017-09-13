@@ -34,8 +34,8 @@ if they have no durability, they're advantages.
 Relationships between main characters and between them and the principal are a special kind of resource.
     What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
     
-# Conflicts, Crises, Obstacles and Complications
-## Types of Crises
+# Challenges, Obstacles and Complications
+## Types of Challenges
     * Dilemma:  a character needs to decide between two paths
     * Desire: a character wants something that may be difficult to acquire
     * Destination: a character wants to get somewhere
@@ -44,7 +44,9 @@ Relationships between main characters and between them and the principal are a s
     * Exigency: events demand action from the character
     * Rival: someone challenges the character's status quo
 ## Types of Complications
-angry, upset, shaken, despondent, depressed, disarmed, disconnected, confused, trapped, vulnerable, unconscious, obsessed, injured, crippled, distracted, embarassed
+angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed
+## Types of Personal Challenges
+trapped, crippled, unconscious, despondent
     
 
 
@@ -109,7 +111,7 @@ WRONG! adding to another character's conditions is a subset of `dialogue`!
 
 
 # The Play
-##Types of play
+## Types of play
    * a party of heroes against shared challenges
    * a team supporting a principal
    * characters facing both shared and personal challenges, wherein players can be antagonistic
