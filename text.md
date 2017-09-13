@@ -93,18 +93,18 @@ WRONG! adding to another character's conditions is a subset of `dialogue`!
 ### Prologue
 - characters are in a zone of comfort
 - discover what they want
- introduce challenges and themes
- rank them
+- introduce challenges and themes
+- rank them
 ### Act I
 - enter an unfamiliar situation to get what they want
- go through each challenge quickly, converting some to resoures for use later
+- go through each challenge quickly, converting some to resoures for use later
 ### Act II
 - adapt to the unfamiliar situation
- go through each challenge slowly, wearing them down to a few
+- go through each challenge slowly, wearing them down to a few
 ### Act III
 - get what you want
 - pay a heavy price
- lay out the remaining challenges and address them freely
+- lay out the remaining challenges and address them freely
 ### Epilogue
 - return to the familiar, having changed
- assess the results, explore how the characters have changed. (spend rewards)
+- assess the results, explore how the characters have changed. (spend rewards)
