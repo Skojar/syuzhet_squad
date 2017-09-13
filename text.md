@@ -77,6 +77,8 @@ You can retroactively create a resource or advantage by spending a `banked point
 i.e. mark yourself an unoccupied after already acting in a scene.
 ### Delay the Inevitable
 i.e. skip the remaining beats on a challenge by moving it to the bottom of the plot.
+### Antagonize
+i.e. create a personal challenge for another player's primary character
 
 partial successes essentially move obstacle points to character.  What would the reverse equivalent be?  
 ~This is needed to allow for adversarial relationships~
@@ -87,16 +89,14 @@ WRONG! adding to another character's conditions is a subset of `dialogue`!
 ##Types of play
    * a team against shared challenges
    * a team supporting a principal
-   * characters facing both shared and personal challenges
-        (personal challenges put in place by other players?
-   *
+   * characters facing both shared and personal challenges, wherein players can be antagonistic
 ### Prologue
--characters are in a zone of comfort
--discover what they want
+- characters are in a zone of comfort
+- discover what they want
  introduce challenges and themes
  rank them
 ### Act I
--enter an unfamiliar situation to get what they want
+- enter an unfamiliar situation to get what they want
  go through each challenge quickly, converting some to resoures for use later
 ### Act II
 - adapt to the unfamiliar situation
