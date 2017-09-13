@@ -34,7 +34,7 @@ if they have no durability, they're advantages.
 Relationships between main characters and between them and the principal are a special kind of resource.
     What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
     
-# Challenges, Obstacles and Complications
+# Challenges, Obstacles and Hurdles
 ## Types of Challenges
     * Dilemma:  a character needs to decide between two paths
     * Desire: a character wants something that may be difficult to acquire
@@ -45,7 +45,7 @@ Relationships between main characters and between them and the principal are a s
     * Rival: someone challenges the character's status quo
 ## Types of Complications
 angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed
-## Types of Personal Challenges
+## Types of Hurdles
 trapped, crippled, unconscious, despondent
     
 
@@ -76,9 +76,9 @@ The core means of determining how a beat or question is resolved is the roll.  T
         | If you're addressing... | ...then a failure means |
         |:---:|:---:|
         | challenge | a new obstacle |
-        | obstacle | a new personal challenge |
-        | personal challenge | a new condition  |
-        | condition | strain the relationship?  |
+        | obstacle | a new hurdle |
+        | hurdle | nothing  |
+        | condition | nothing  |
 
         
 1. Regardless of the outcome, the player marks experience equal to the number of `stop` dice less the number of `start` dice.
