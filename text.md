@@ -93,6 +93,8 @@ The core means of determining how a beat or question is resolved is the roll.  T
 ### Lend a Hand
 ### Make an Entrance
 i.e. jump in to save the day, taking the complication from a bought success onto yourself?
+Can you transfer a complication to yourself?
+Can you convert someone else's hurdle to a challenge?
 ### Dialogue
 i.e. two characters working on a complication.
 ### Monologues
