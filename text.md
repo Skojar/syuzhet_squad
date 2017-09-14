@@ -19,6 +19,7 @@ GM?
 
 # Dramatis Personæ
 ### Elements of a Character
+#### Name, Epithet, Adjectives
 #### Signature
 #### Vulnerabilities (crises?) Inclinations
 #### Rally
