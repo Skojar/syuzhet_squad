@@ -67,7 +67,7 @@ These are prompts from which the core story will be developed.  They are the roo
     * Discovery: a character must come to terms with new information
     * Mystery: a character seeks the answer to a question
     * Exigency: events demand action from the character
-    * Rival: someone challenges the character's status quo
+    * Confrontation: someone (a rival) or something (a crisis) challenges the character's status quo
     
     
 ## Obstacles
