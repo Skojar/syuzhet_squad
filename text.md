@@ -170,6 +170,7 @@ WRONG! adding to another character's conditions is a subset of `dialogue`!
     * additional complications
     * upgraded resources
     * destiny (but what does it do?)
+    * protection from complications?
     
 # The Play
 ## Types of play
