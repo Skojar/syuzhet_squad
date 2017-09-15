@@ -12,20 +12,29 @@ GM?
 * do these cover gear, intel?
 
 # Principles & Design Goals
-* Nothing matters except in how it relates to the players
+**CRUCIBLE**
+* Nothing matters except in how it relates to the players 
+* Play will be finite and have a defined beginning, middle and end.
 * Consistency and simulation is 'flavor' and relegated to the fiction
 * The *fabula* is a product of play.
 * Get characters into the trouble appropriate to them, and explore how they get themselves and each other out of that trouble.
+##how are each of these represented?
+* Setting
+* Theme/Premise
+
 
 # Dramatis Personæ
 ### Elements of a Character
 #### Name, Epithet, Adjectives
 #### Signature
 #### Vulnerabilities (crises?) Inclinations
+In good stories, characters rise and fall, gain and lose, and change over time.  Vulnerabilities are the ways that this happens, particular to a character.  
 #### Rally
-#### Destiny (you level this up)
+#### Destiny (a way to level up)
 ### Main Characters
 ### Additional Cast
+represent conflicts
+embody resources
 ### Option: Principal
 
 # Resources & Advantages (Assets?)
@@ -37,8 +46,13 @@ if they have no durability, they're advantages.
 Relationships between main characters and between them and the principal are a special kind of resource.
     What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
     
-# Challenges, Obstacles and Hurdles
-## Types of Challenges
+# Adversity
+Conflicts, Obstacles, Complications and Hurdles
+challenges, Restraints, Threats, etc.
+##Elements of a Challenge
+* Owner
+* Rating
+## Types of Conflicts
 These are prompts from which the core story will be developed.  They are the roots of the tree.
 
     * Dilemma:  a character needs to decide between two paths
@@ -48,11 +62,24 @@ These are prompts from which the core story will be developed.  They are the roo
     * Mystery: a character seeks the answer to a question
     * Exigency: events demand action from the character
     * Rival: someone challenges the character's status quo
+## Obstacles
 ## Types of Complications
-angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed, conflicted
+angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed, conflicted, weakened, harrowed, distressed, hobbled
 ## Types of Hurdles
-trapped, crippled, unconscious, despondent
+trapped, crippled, unconscious, despondent, restrained, seperated
+
+   | ___  | Shared | Personal |
+   | ---: | :---: |:---:|
+   | Requires action | Conflict | Hurdle |
+   | Hinders action | Obstacle | Complication |
     
+   
+   | Fabula Element | Conflict | Obstacle | Hurdle | Complication |
+   |---:|:---:|:---:|:---:|:---:|
+   |   |Broad, ill defined, shared|limited, associated with a conflict, shared | personal, limits action | personal, hinders action |
+   | Enemy Forces | A mob of mooks is advancing on the village. | A squad of mooks is guarding the treasure. | A gang of mooks has you cornered. | The jeers of the mooks have intimidated you. |
+   | Sleep Spell | Local creatures have become lethargic due to a curse. | A magical barrier makes all who touch it fall unconscious. | You are unconscious. | The effects of the spell make you slow to react. | 
+   | Constraints |   | a prison | tied up | handcuffed |
 
 
 # Actions
