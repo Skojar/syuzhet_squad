@@ -35,6 +35,7 @@ In good stories, characters rise and fall, gain and lose, and change over time. 
 ### Additional Cast
 represent conflicts
 embody resources
+support characters and antagonists
 ### Option: Principal
 
 # Resources & Advantages (Assets?)
@@ -52,6 +53,11 @@ challenges, Restraints, Threats, etc.
 ##Elements of a Challenge
 * Owner
 * Rating
+* Question Prompt
+    "How did we get here?"
+    "What does this mean to you?"
+    "Why does it matter?"
+    
 ## Types of Conflicts
 These are prompts from which the core story will be developed.  They are the roots of the tree.
 
@@ -62,6 +68,8 @@ These are prompts from which the core story will be developed.  They are the roo
     * Mystery: a character seeks the answer to a question
     * Exigency: events demand action from the character
     * Rival: someone challenges the character's status quo
+    
+    
 ## Obstacles
 ## Types of Complications
 angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed, conflicted, weakened, harrowed, distressed, hobbled
