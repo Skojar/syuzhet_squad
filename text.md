@@ -151,7 +151,26 @@ partial successes essentially move obstacle points to character.  What would the
 ~This is needed to allow for adversarial relationships~
 WRONG! adding to another character's conditions is a subset of `dialogue`!
 
+### Strain a Resource
+1. Roll a number of dice equal to the number of open rings on the resource.
+1. For each one or six result, claim a bonus stone.
+1. For each result of one, fill an open ring.
+1. If there are no more open rings, *put the resource in crisis*.
 
+### Exacerbate
+(the inverse of straining a resource)
+1. Roll a number of dice equal to the number of open rings on the challenge.
+1. For each one or six result, claim a bonus stone.
+1. For each result of six, add an open ring.
+
+# Things to buy
+* a stronger effect
+* additional uses of signature
+* advancement
+    * additional complications
+    * upgraded resources
+    * destiny (but what does it do?)
+    
 # The Play
 ## Types of play
    * a party of heroes against shared challenges
