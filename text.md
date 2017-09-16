@@ -10,6 +10,11 @@ GM?
 * **beat counters:** as many as there are players, easy to see, pickup and move (we use jacks)
 * **point:** maybe a couple dozen, small stones or poker chips
 * do these cover gear, intel?
+### Table setup
+ Locations
+ * present
+ * staged
+ * away/engaged
 
 # Principles & Design Goals
 **CRUCIBLE**
@@ -57,6 +62,7 @@ challenges, Restraints, Threats, etc.
     "How did we get here?"
     "What does this mean to you?"
     "Why does it matter?"
+    * stakes: what is there to win or lose?
     
 ## Types of Conflicts
 These are prompts from which the core story will be developed.  They are the roots of the tree.
@@ -76,7 +82,7 @@ angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, o
 ## Types of Hurdles
 trapped, crippled, unconscious, despondent, restrained, seperated
 
-   | ___  | Shared | Personal |
+   |   | Shared | Personal |
    | ---: | :---: |:---:|
    | Requires action | Conflict | Hurdle |
    | Hinders action | Obstacle | Complication |
