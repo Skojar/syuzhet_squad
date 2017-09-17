@@ -98,6 +98,8 @@ trapped, crippled, unconscious, despondent, restrained, seperated
 * when you act on a goal or obstacle, or help someone else to do so, movemyour token from staged to present
 * when the current goal's beats are exhausted, move all the present tokens to away.
 * if there are no tokens staged, have a scene about the setting or theme, then move everyone's token to staged (unless they have a restraint) 
+ * setting: bringdown
+ * theme : commentary, chorus
 
 # Actions
 ### Resolving Questions with Rolls
