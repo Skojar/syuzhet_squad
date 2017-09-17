@@ -53,9 +53,9 @@ Relationships between main characters and between them and the principal are a s
     What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
     
 # Adversity
-Conflicts, Obstacles, Complications and Hurdles
+Goals, Obstacles, Complications and Hurdles
 challenges, Restraints, Threats, etc.
-##Elements of a Challenge
+## Elements of a Challenge
 * Owner
 * Rating
 * Question Prompt
@@ -64,7 +64,7 @@ challenges, Restraints, Threats, etc.
     "Why does it matter?"
     * stakes: what is there to win or lose?
     
-## Types of Conflicts
+## Types of Goals
 These are prompts from which the core story will be developed.  They are the roots of the tree.
 
     * Dilemma:  a character needs to decide between two paths
@@ -78,23 +78,26 @@ These are prompts from which the core story will be developed.  They are the roo
     
 ## Obstacles
 ## Types of Complications
-angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed, conflicted, weakened, harrowed, distressed, hobbled
+angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed, conflicted, weakened, harrowed, distress ed, hobbled
 ## Types of Hurdles
 trapped, crippled, unconscious, despondent, restrained, seperated
 
    |   | Shared | Personal |
    | ---: | :---: |:---:|
-   | Requires action | Conflict | Hurdle |
+   | Requires action | Goal | Hurdle |
    | Hinders action | Obstacle | Complication |
     
    
-   | Fabula Element | Conflict | Obstacle | Hurdle | Complication |
+   | Fabula Element | Goal | Obstacle | Hurdle | Complication |
    |---:|:---:|:---:|:---:|:---:|
    |   |Broad, ill defined, shared|limited, associated with a conflict, shared | personal, limits action | personal, hinders action |
    | Enemy Forces | A mob of mooks is advancing on the village. | A squad of mooks is guarding the treasure. | A gang of mooks has you cornered. | The jeers of the mooks have intimidated you. |
    | Sleep Spell | Local creatures have become lethargic due to a curse. | A magical barrier makes all who touch it fall unconscious. | You are unconscious. | The effects of the spell make you slow to react. | 
    | Constraints |   | a prison | tied up | handcuffed |
-
+## Locations
+* when you act on a goal or obstacle, or help someone else to do so, movemyour token from staged to present
+* when the current goal's beats are exhausted, move all the present tokens to away.
+* if there are no tokens staged, have a scene about the setting or theme, then move everyone's token to staged (unless they have a restraint) 
 
 # Actions
 ### Resolving Questions with Rolls
@@ -121,7 +124,7 @@ The core means of determining how a beat or question is resolved is the roll.  T
     
         | If you're addressing... | ...then a failure means |
         |:---:|:---:|
-        | challenge | a new obstacle |
+        | goal | a new obstacle |
         | obstacle | a new hurdle |
         | hurdle | nothing  |
         | condition | nothing  |
@@ -137,7 +140,8 @@ i.e. jump in to save the day, taking the complication from a bought success onto
 Can you transfer a complication to yourself?
 Can you convert someone else's hurdle to a challenge?
 ### Dialogue
-i.e. two characters working on a complication.
+i.e. two characters working on a complication or hurdle.
+Must be in the same *location*, e.g. present, staged, or away
 ### Monologues
 i.e. a character working on her own complications, without anyone else present.
 ### Chorus
