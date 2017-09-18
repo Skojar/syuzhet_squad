@@ -1,4 +1,25 @@
 a glossary of technical terms and procedures used in the preceding.
+
+**options**
+**principal character**
+**player character**
+**relationship**
+**goals**
+**ratings**
+**lead narrator**
+**plot stack**
+**beat**
+**resolved**
+**staged**
+**on-screen**
+**bank destiny**
+
+
+### playing out a story beat
+1. That **goal**'s **owner** depicts a situation related to that **goal**.
+1. The **owner** then designates any other player whose token is either **staged** or **on-screen** to **take the lead**.
+1. The designated player may choose to accept, or decline and choose a different player (including the **goals**'s owner) to **take the lead** in her place.  This second player must accept.
+
 ### Strain a Resource
 1. Roll a number of dice equal to the number of open rings on the resource.
 1. For each one or six result, claim a bonus stone.
