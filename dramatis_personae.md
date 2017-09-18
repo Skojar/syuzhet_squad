@@ -22,3 +22,12 @@ if they have no durability, they're advantages.
 
 Relationships between main characters and between them and the principal are a special kind of resource.
     What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
+
+# Things to buy
+* a stronger effect
+* additional uses of signature
+* advancement
+    * additional complications
+    * upgraded resources
+    * destiny (but what does it do?)
+    * protection from complications?
