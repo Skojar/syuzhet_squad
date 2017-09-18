@@ -3,7 +3,7 @@ The Syuzheteers
 
 The Syuzheteers is a GMful storymaking game.
 
-# What is The Syuzheteers
+# [What is The Syuzheteers](./what_is_this.md)
 A description of the game.
 # What you need to play
 A description of the physical equipment needed to play it.
