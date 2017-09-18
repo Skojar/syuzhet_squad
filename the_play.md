@@ -1,8 +1,6 @@
 # The Play
-## Types of play
-   * a party of heroes against shared challenges
-   * a team supporting a principal
-   * characters facing both shared and personal challenges, wherein players can be antagonistic
+A session of play is divided into five distinct phases. What follows is a compact overview of those phases.  Terms in **bold** are described in greater detail elsewhere.
+
 ### Prologue
 In the prologue we meet our central characters in their comfort zone, then learn what challenges they will face.
 
@@ -17,13 +15,13 @@ In the prologue we meet our central characters in their comfort zone, then learn
    * In standard play, each player will provide three (3) **goal**s.  These can be new, or left over from previous sessions.
    * The goals should be ranked and **rating**s given to each in order to indicate how momentus a part the player would like them to play in the story.  In standard play, give the most momentous **goal** a **rating** equal to five (5) or the number of players plus one (whichever is higher), the least momentous a rating of one (1), and the remaining **goal** a rating of three (3).
    * If you've chosen to designate a **lead narrator**, she may have prepared some or all of these ahead of time.
-   * Adjust the number and rating of the goals for shorter or longer play sessions.
+   * Adjust the number and rating of the goals for shorter or longer play sessions, according to taste or as described in the **options** section.
 1. Make a stack of everyone's **goal**s, front-side up. Shuffle the stack and place it in the center of the **on-screen** area.  This is the **plot stack** for Act I. 
   
 ### Act I
 In Act I our main characters fully enter an unfamiliar situation.  Each of the major story arcs, and many of key resources that will come up later are introduced.
 
-1. Play begins with the card on top of the **plot stack**.  
+1. Play begins with the **goal** on top of the **plot stack**.  
 1. Each **goal** is afforded only one **beat** in Act I.  If it is not **resolved** in that beat, add an empty ring to it's rating and move it to the top of a new **plot stack** in the **staged** area.
 1. When the **plot stack** for Act I is exhausted, move the new **plot stack** from the **staged** area to the **on-screen** area.  This is the **plot stack** for Act II.
   
