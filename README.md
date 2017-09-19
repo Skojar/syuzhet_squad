@@ -35,6 +35,6 @@ A glossary of technical terms and procedures used in the preceding.
 - [ ] Complications
 - [ ] Beat Resolution
 - [ ] Destiny
-- [ ] Flourishes (press yoru luck)
+- [ ] Flourishes (press your luck)
 
 
