@@ -1,7 +1,7 @@
-A Compleat Syuzheteer
+The Syuzheteers
 ===============
 
-The Syuzheteers is a GMful storymaking game.
+The Syuzheteers is a GM-ful storymaking game.
 
 ### [What you need to play](./what_you_need.md)
 A description of the physical equipment needed to play it.
