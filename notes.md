@@ -1,4 +1,4 @@
-The syuzheteers is a GMful storymaking game.
+The syuzheteers is a GM-ful storymaking game.
 * an introduction
 * how it differs from other games
 
