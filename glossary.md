@@ -13,8 +13,15 @@ a glossary of technical terms and procedures used in the preceding.
 - **staged**
 - **on-screen**
 - **bank destiny**
-
-- ** flourishes**
+- **flourishes**
+ players can describe additional actions and add xp to the beat.  
+ go around the table until a certain limit (or until they run out of steam
+ doing a "yes and..." improv maybe
+ the number of times this happens is added to the xp for the roll and all the xp is approtioned equally to all the players.
+- **press your luck** 
+ on a straight (not bought) success, can choose to roll again for additional (double?) effect on another straight success.  
+ successes can be chained as long as the player wants and can successfully roll.
+ when they either decide to quit or don't succeed, that's what they get.
 ### playing out a story beat
 1. That **goal**'s **owner** depicts a situation related to that **goal**.
 1. The **owner** then designates any other player whose token is either **staged** or **on-screen** to **take the lead**.
