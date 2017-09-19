@@ -12,7 +12,12 @@ A description of the physical equipment needed to play it.
 - [X] Table Setup
 ### [Dramatis Personæ](./dramatis_personae.md)
 A description of the various characters and their mechanical elements.
-- [ ] The Player Character
+- [X] The Player Character
+- [X] Signature
+- [X] Conditions
+- [X] Destiny
+- [ ] Rally
+- [ ] Ratings and Rings
 - [ ] The Principal Character
 - [ ] Additional Cast
 - [ ] Relationships
@@ -29,12 +34,10 @@ A description of the course of play.
 A glossary of technical terms and procedures used in the preceding.
 - [ ] Options
 - [ ] Goals
-- [ ] Ratings and Rings
 - [ ] Obstacles
 - [ ] Restraints
 - [ ] Complications
 - [ ] Beat Resolution
-- [ ] Destiny
 - [ ] Flourishes (press your luck)
 
 
