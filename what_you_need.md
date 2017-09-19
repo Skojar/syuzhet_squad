@@ -27,7 +27,7 @@ Finally, players will be called upon to manipulate various physical tokens, mark
 * **destiny tokens**: Something like poker chips works well.  You will need maybe a couple dozen total. 
 * **experience tokens**: Something small like stones or pennies.  You are likely to need about a half-score per player.  
 
-With the exception of the **presence markers**, these should be set aside to be put into and removed from play as needed.
+With the exception of the **presence markers**, these should be set aside to be put into and removed from play as needed, perhaps in bowls or similar shallow containers.
 
 ### Table setup
 The play area should be divided into three distinct areas.  Two in the center are referred to as the **on-screen** area and the **staged** area.  Around these, each player should have a space for her **player character** card and any **complication**s and **hurdle**s.  These spaces are collectively referred to as the **away** area.  
