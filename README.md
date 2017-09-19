@@ -3,8 +3,6 @@ A Compleat Syuzheteer
 
 The Syuzheteers is a GMful storymaking game.
 
-### [What is The Syuzheteers](./what_is_this.md)
-A description of the game.
 ### [What you need to play](./what_you_need.md)
 A description of the physical equipment needed to play it.
 ### [Dramatis Personæ](./dramatis_personae.md)
