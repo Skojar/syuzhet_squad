@@ -1,20 +1,20 @@
 a glossary of technical terms and procedures used in the preceding.
 
-**options**
-**principal character**
-**player character**
-**relationship**
-**goals**
-**ratings**
-**lead narrator**
-**plot stack**
-**beat**
-**resolved**
-**staged**
-**on-screen**
-**bank destiny**
+- **options**
+- **principal character**
+- **player character**
+- **relationship**
+- **goals**
+- **ratings**
+- **lead narrator**
+- **plot stack**
+- **beat**
+- **resolved**
+- **staged**
+- **on-screen**
+- **bank destiny**
 
-
+- ** flourishes**
 ### playing out a story beat
 1. That **goal**'s **owner** depicts a situation related to that **goal**.
 1. The **owner** then designates any other player whose token is either **staged** or **on-screen** to **take the lead**.
