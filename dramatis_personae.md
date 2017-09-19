@@ -1,15 +1,14 @@
 # Dramatis Personæ
-### The Player Character
-Each player should bring a single unique focal character to the story.  These are the most fleshed out characters, with the most mechanical details.
+Each player should bring a single unique focal character to the story.  These are the most fleshed out characters, with the most mechanical details, and are referred to as **player characters**.
 
 #### Name, Epithet, Adjectives
 Players should select a name for the character, as well as an epithet, which can be a descriptive byname, professional title, or archetype that provides a quick impression of what others might expect from the character.
-It's also encouraged to list a handful of adjectives that describe the character.  In standard play, these aren't mechanically relevant, but are intended to simply provide a prompt of quide to roleplaying interactions with the character.  As such, they can be physcially descriptive (e.g. tall, dark, handsome) or summarize personality traits (e.g. kind, suave, assertive), or indicate other attributes (agile, strong, clever).
+It's also encouraged to list a handful of adjectives that describe the character.  In standard play, these aren't mechanically relevant, but are intended to simply provide a prompt of guide to roleplaying interactions with the character.  As such, they can be physcially descriptive (e.g. tall, dark, handsome) or summarize personality traits (e.g. kind, honest, assertive), or indicate other attributes (e.g. agile, strong, clever), or skills (e.g. stealthy, crack-shot, hacker).
 
 *{compose option to formalize these}*
 
 #### Signature
-Each player character has a single so-called **signature move** that represents a special way that the character solves problems.  These should of course be distinct from other player character's signatures.  This is the go-to, core ability that sets them apart from other characters, described in a few words.  These aren't meant to exhaustively describe a character's abilities, but instead are the player's choice of the one most essential kind thing that the character does *in his current incarnation*.
+Each player character has a single so-called **signature move** that represents a special way that the character solves problems.  These should of course be distinct from other player character's signatures.  This is the go-to, core ability that sets them apart from other characters, described in a few words.  These aren't meant to exhaustively describe a character's abilities, but instead are the one most essential kind thing that the character does *in his current incarnation*.  A player should choose a signature based on what she wants to describe the character doing in the session.
 
 | Character | Signature |
 |:---:|:---:|
@@ -26,11 +25,18 @@ Each player character has a single so-called **signature move** that represents 
 
 *{refine the breadth of this element.  Try to provide examples with more variety, or re-write these to be more varied.}*
 
-#### Vulnerabilities (crises?) Inclinations
-In good stories, characters rise and fall, gain and lose, and change over time.  Vulnerabilities are the ways that this happens, in ways that are particular to a character.  
+#### Conditions
+In all good stories, characters rise and fall, gain and lose, and change over time.  Conditions are the ways that this happens in the game.  In practice, anything bad that can happen to cause trouble for a character or frustrate his efforts to act as he normally would. There are a few different ways to approach this aspect of the character. 
 
-#### Rally
-#### Destiny (a way to level up)
+You could explore how the character deals with adversity with more straightforward conditions like _injured_ or _befuddled_.  These  indicate, respectively, that the he is normally in good health and clearheaded. Alternatively, you could indicate that the character is especially susceptible to some failing or vice particular to him, with  conditions like _enraged_, _panicked_, or _solipsistic_.  For many characters, however, it makes sense to have conditions that tell you about some special quality inherent in the character.  A character that is normally invulnerable to harm might have a condition like _vulnerable_, and a character who uses swords or guns extensively might have a condition like _disarmed_.
+
+In play, **conditions** describe situations that hinder or complicate action, but don't necessarily prevent it.  As with **signatures move**s, the most important thing is to choose maladies that the player is enthusiastic to describe her character suffering, or problems she's like to see him deal with.
+
+#### Rally & Destiny
+Each player character has two more numerical statistics.  The first is called his **rally**, that rises and falls over the course of a session.  The second a benefit that a character brings to the session from his early adventures, and is called **destiny**.  Because it never decreases, **destiny** can be tracked with simple tally marks, but **rally** increases and decreases, so it's represented using **rings**.
+
+***
+
 ### Main Characters
 ### Additional Cast
 represent conflicts
