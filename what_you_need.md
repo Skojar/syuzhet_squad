@@ -1,7 +1,7 @@
 # The Things you'll need
 
 ### The Players
-The most important equipment you'll need are a small group of enthusiastic, creative, and open-minded participants, ready to depict, describe, and portray various parts of the story, including most especially characters, settings, and action sequences.  This type of game is what is commonly referred to as a 'role playing' or 'story-telling' game, because the players play roles and collaboratively tell a story.
+The most important equipment you'll need are a small group of enthusiastic, creative, and open-minded participants, ready to depict, describe, and portray various parts of the story, including most especially characters, settings, and action sequences.  This type of game is what is commonly referred to as a 'role playing' or 'story-telling' game, because the players play roles and collaboratively tell a story.  These rules assume there are three to five players.
 
 Certain innovations in these rules go a step further, into the realm of 'story-making.'  That is, the narrative is built mechanically from consituent parts during play, rather than being prepared ahead of time.  The rules create the narrative structure, and hopefully generate tension and drama.  The players provide the flavor, color, and exposition that make the drama *matter*.
 
