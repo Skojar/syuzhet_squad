@@ -1,4 +1,4 @@
-The Compleat Syuzheteers
+A Compleat Syuzheteers
 ===============
 
 The Syuzheteers is a GMful storymaking game.
