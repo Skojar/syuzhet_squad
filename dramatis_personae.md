@@ -25,6 +25,11 @@ Each player character has a single so-called **signature move** that represents 
 
 *{refine the breadth of this element.  Try to provide examples with more variety, or re-write these to be more varied.}*
 
+#### Rally & Destiny
+Each player character has two more numerical statistics.  The first is called his **rally**, that rises and falls over the course of a session.  The second a benefit that a character brings to the session from his early adventures, and is called **destiny**.  Because it never decreases, **destiny** can be tracked with simple tally marks, but **rally** increases and decreases, so it's represented using **rings**.
+
+*{explain rings mechanic}*
+
 #### Propensities
 In all good stories, characters rise and fall, gain and lose, and change over time.  **Conditions** are the ways that this happens in the game.  In practice, it can be anything bad that can happen to cause trouble for a character or frustrate his efforts to act as he normally would. A character card includes a list of **propensities** of a set length.  Each **propensity** conresponds to a  **condition** that the character can suffer from during the game, as well as performing other functions.
 
@@ -32,17 +37,13 @@ There are a few different ways to approach this aspect of the character. You cou
 
 In play, **conditions** describe situations that hinder or complicate action, but don't necessarily prevent it.  As with **signatures move**s, the most important thing is to choose maladies that the player is enthusiastic to describe her character suffering, or problems she's like to see him deal with.  A new charcter should be given three **propensities**, but may gain more as he grows.
 
-#### Rally & Destiny
-Each player character has two more numerical statistics.  The first is called his **rally**, that rises and falls over the course of a session.  The second a benefit that a character brings to the session from his early adventures, and is called **destiny**.  Because it never decreases, **destiny** can be tracked with simple tally marks, but **rally** increases and decreases, so it's represented using **rings**.
-
 ***
 
-### Main Characters
+### Principal Character
 ### Additional Cast
 represent conflicts
 embody resources
 support characters and antagonists
-### Option: Principal
 
 # Resources & Advantages (Assets?)
 people places things ideas
