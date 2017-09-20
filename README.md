@@ -1,7 +1,7 @@
-The Syuzheteers
+The Compact Syuzheteering Handbook
 ===============
 
-The Syuzheteers is a GM-ful storymaking game.
+Syuzheteering is a GM-ful storymaking game.
 
 ### [What you need to play](./what_you_need.md)
 A description of the physical equipment needed to play it.
@@ -14,10 +14,10 @@ A description of the physical equipment needed to play it.
 A description of the various characters and their mechanical elements.
 - [X] The Player Character
 - [X] Signature
-- [X] Conditions
 - [X] Destiny
 - [ ] Rally
 - [ ] Ratings and Rings
+- [X] Conditions
 - [ ] The Principal Character
 - [ ] Additional Cast
 - [ ] Relationships
