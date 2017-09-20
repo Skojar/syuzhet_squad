@@ -25,7 +25,7 @@ Finally, players will be called upon to manipulate various physical tokens, mark
 * **presence markers**: These should be distinctive and unique. Game pawns or miniatures are ideal. You will need one for each player. 
 * **beat counters**: These should be easy to see, pickup and move, but stable. Jacks work well. Again, you will need as many as there are players, but these should all be the same.
 * **destiny tokens**: Something like poker chips works well.  You will need maybe a couple dozen total. 
-* **experience tokens**: Something small like stones or pennies.  You are likely to need about a half-score per player.  
+* **experience tokens**: Something small like stones, pennies, or bingo chips.  You are likely to need about a half-score per player.  
 
 With the exception of the **presence markers**, these should be set aside to be put into and removed from play as needed, perhaps in bowls or similar shallow containers.
 
