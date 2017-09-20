@@ -57,10 +57,10 @@ The core means of determining how a beat or question is resolved is the roll.  T
     
         | If you're addressing... | ...then a failure means |
         |:---:|:---:|
-        | goal | a new obstacle |
+        | agon | a new obstacle |
         | obstacle | a new hurdle |
-        | hurdle | nothing  |
-        | condition | nothing  |
+        | constraint | nothing  |
+        | crisis | nothing  |
 
         
 1. Regardless of the outcome, the player marks experience equal to the number of `stop` dice less the number of `start` dice.
