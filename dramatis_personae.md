@@ -49,21 +49,23 @@ In addition to the **protagonists**, the players might choose to include a **pri
 *{formal rules to create a principal among multiple people?}*
 *{maybe use destiny to determine some stats and the order in which players contribute}*
 
-As a protagonist participates in stories, he will earn **experience** that can be spent to **grow** as a character.
+***
 
-# Resources & Advantages (Assets?)
+Relationships between main characters and between them and the principal are a special kind of resource.
+    What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
+    
+### Resources & Advantages (Assets?)
 people places things ideas
 the face describes them and indicated their durability.
 the reverse indicates the kind of problem that 
 if they have no durability, they're advantages.
 
-Relationships between main characters and between them and the principal are a special kind of resource.
-    What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
-
 ### Additional Cast
 represent conflicts
 embody resources
 support characters and antagonists
+
+As a protagonist participates in stories, he will earn **experience** that can be spent to **grow** as a character.
 
 # Things to buy
 * a stronger effect
