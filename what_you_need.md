@@ -33,6 +33,3 @@ With the exception of the **presence markers**, these should be set aside to be 
 The play area should be divided into three distinct areas.  Two in the center are referred to as the **on-screen** area and the **staged** area.  Around these, each player should have a space for her **player character** card and any **complication**s and **hurdle**s.  These spaces are collectively referred to as the **away** area.  
 
 Throughout the course of play, unique **marker**s representing each **player character** will be moved between **on-screen**, **staged** and **away** as described in various rules.  This always means physically moving the **marker** or **marker**s in question.  A **player character** is said to be **on-screen**, **staged** or **away** based on the location of the **marker** representing him. 
-
-Players are encouraged to adopt a philosophy of *mise en place* during play, as the location of various physical objects, as well as the readily availabililty of those objects, is at time important to the proper functioning of the rules.
-
