@@ -1,16 +1,17 @@
 # Dramatis Personæ
-Each player should bring a single unique focal character to the story.  These are the most fleshed out characters, with the most mechanical details, and are referred to as **player characters**.
+Each player should bring a single unique focal character to the story.  These are the most fleshed out characters, with the most mechanical details, and are referred to as **protagonists**.
 
 #### Name, Epithet, Adjectives
-Players should select a name for the character, as well as an epithet, which can be a descriptive byname, professional title, or archetype that provides a quick impression of what others might expect from the character.
-It's also encouraged to list a handful of adjectives that describe the character.  In standard play, these aren't mechanically relevant, but are intended to simply provide a prompt of guide to roleplaying interactions with the character.  As such, they can be physcially descriptive (e.g. tall, dark, handsome) or summarize personality traits (e.g. kind, honest, assertive), or indicate other attributes (e.g. agile, strong, clever), or skills (e.g. stealthy, crack-shot, hacker).
+Players should select a name for the **protagonist**, as well as an epithet, which can be a descriptive byname, professional title, or archetype that provides a quick impression of what others might expect from the character.
 
-*{compose option to formalize these}*
+It's also encouraged to list a handful of adjectives that describe the character.  In standard play, these aren't mechanically relevant, but are intended to simply provide a prompt of guide to roleplaying interactions with the character.  As such, they can be physcially descriptive (e.g. tall, dark, handsome) or summarize personality traits (e.g. kind, honest, gentle), or indicate other attributes (e.g. agile, strong, clever), or skills (e.g. stealthy, crack-shot, hacker).
 
-#### Signature
-Each player character has a single so-called **signature move** that represents a special way that the character solves problems.  These should of course be distinct from other player character's signatures.  This is the go-to, core ability that sets them apart from other characters, described in a few words.  These aren't meant to exhaustively describe a character's abilities, but instead are the one most essential kind thing that the character does *in his current incarnation*.  A player should choose a signature based on what she wants to describe the character doing in the session.
+*{compose option to formalize these?)*
 
-| Character | Signature |
+#### Gimmick
+Each **protagonist** has a single so-called **gimmick** that represents a special way that the character solves problems.  These should of course be distinct from other **protagonists'** **gimmicks**.  **Gimmicks** represent the go-to, core ability or signature move of a protagonist that sets them apart from other characters, described in a few words.  These aren't meant to exhaustively describe a character's abilities, but instead are the one most essential kind thing that the character does *in his current incarnation*.  A player should choose a gimmick based on what she wants to describe the character doing in the session.
+
+| Character | Gimmick |
 |:---:|:---:|
 | Annie Oakley | Trick Shot |
 | Sherlock Holmes | Deduction |
@@ -26,24 +27,29 @@ Each player character has a single so-called **signature move** that represents 
 *{refine the breadth of this element.  Try to provide examples with more variety, or re-write these to be more varied.}*
 
 #### Rally & Destiny
-Each player character has two more numerical statistics.  The first is called his **rally**, that rises and falls over the course of a session.  The second a benefit that a character brings to the session from his early adventures, and is called **destiny**.  Because it never decreases, **destiny** can be tracked with simple tally marks, but **rally** increases and decreases, so it's represented using **rings**.
+Each protagonist has two more numerical statistics.  The first is called his **rally**, that rises and falls over the course of a session.  The second is a benefit that a character brings to the session from his early adventures, and is called **destiny**.  Because it never decreases, **destiny** can be tracked with simple tally marks, but **rally** increases and decreases, so it's represented using **rings**.
 
-*{explain rings mechanic}*
+When a rule asks a player to add a **ring** to something, it means to to draw an empty circle on or near that something (as appropriate).  Additional **ring**s should be added in a row or neat bunch, because other rules will ask her to fill **ring**s, which means to indicate somehow that a **ring** is no longer empty, and other rules will ask for a count of how many **ring**s are filled or empty.
 
-#### Propensities
-In all good stories, characters rise and fall, gain and lose, and change over time.  **Conditions** are the ways that this happens in the game.  In practice, it can be anything bad that can happen to cause trouble for a character or frustrate his efforts to act as he normally would. A character card includes a list of **propensities** of a set length.  Each **propensity** conresponds to a  **condition** that the character can suffer from during the game, as well as performing other functions.
+*{use illustrations to make this clear}*
 
-There are a few different ways to approach this aspect of the character. You could explore how the character deals with adversity with more straightforward propensities like _injured_ or _befuddled_.  These  indicate, respectively, that the he is normally in good health and clearheaded. Alternatively, you could indicate that the character is especially susceptible to some failing or vice particular to him, with  propensities like _enraged_, _panicked_, or _solipsistic_.  For many characters, however, it makes sense to have propensities that tell you about some special quality inherent in the character.  A character that is normally invulnerable to harm might have a condition like _vulnerable_, and a character who uses swords or guns extensively might have a condition like _disarmed_.  Remember, despite the term, these aren't necessarily things that the character  tends towards in some hypothetical everyday life, but instead things that the character tends toward in a story where he is called upon to face extraordinary challenges and circumstances.
+#### Conditions
+In all good stories, characters experience highs and lows, and change over time.  **Conditions** are the ways that this happens in the game.  In practice, a **condition** can be anything bad that can happen to cause trouble for a character or frustrate his efforts to act as he normally would. A character card includes a list of **conditions** of a set length.  Each **condition** representing a issue that the character can struggle during the game.  When a player creates a new protagonist, she should give him three (3) **conditions**.
 
-In play, **conditions** describe situations that hinder or complicate action, but don't necessarily prevent it.  As with **signatures move**s, the most important thing is to choose maladies that the player is enthusiastic to describe her character suffering, or problems she's like to see him deal with.  A new charcter should be given three **propensities**, but may gain more as he grows.
+There are a few different ways to approach this aspect of her character. She could explore how the character deals with adversity with more straightforward **conditions** like _injured_ or _befuddled_.  These  indicate that the he is normally in good health and clearheaded, respectively. Alternatively, she could indicate that the character is especially susceptible to some failing or vice particular to him, with  **conditions** like _enraged_, _panicked_, or _solipsistic_.  For many characters, however, it makes sense to have **conditions** that represent some special quality inherent in the character.  A character that is normally invulnerable to harm, for instance, might have a condition like _vulnerable_, and a character who relies on the  use of swords or guns extensively might have a condition like _disarmed_.  Remember, these aren't necessarily problems that the character regularly faces in some hypothetical everyday life, but are instead things that the character should face in a story where he is called upon to face extraordinary challenges and circumstances that are appropriate to him as a character (though they might be the former as well).  There's no reason why a protagonist's **conditions** and **gimmick** can overlap, but the interpretation of that overlap should be something a player considers ahead of time.
 
-***
+In play, **conditions** describe situations that hinder or complicate action, but don't necessarily prevent it.  As with **signatures move**s, the most important thing is to choose challenges that the player is enthusiastic to describe her character suffering, or problems she's like to see him deal with.  A new charcter should be given three **conditions**, but may gain more as he grows.
 
-### Principal Character
-### Additional Cast
-represent conflicts
-embody resources
-support characters and antagonists
+When a rule asks a player to **gain a condition** at a given rating, she should look select from the list a **condition** with no **empty rings** next to it, and add a number of **empty rings** equal to the rating.  If there are no **conditions** on the list without **empty rings**, she cannot **gain a condition**.  An alternative may be prescirbed by the rule in question, but if not the defulat alternative is to **enter a crisis**.
+
+**Crises** are a special story element that have a rating just like **conditions**.  They get their own card, turned perpendicular to the direction the player is facing, to indicate what role they play.  That role fits the situations they are meant to represent:  those in which the character's actions are seriously limited, such as being tied up, unconscious, or trapped.  Together, **conditions** and **crises** represent things in the story that are happening to a particular character rather than shared among all the characters.
+
+In addition to the **protagonists**, the players might choose to include a **principal** as well.  A **principal** has all the same elements as a **protagonist**, but is not exclusive to any individual player.  As such, all the players should agree to including a **principal**, and should play an equal part in his creation.
+
+*{formal rules to create a principal among multiple people?}*
+*{maybe use destiny to determine some stats and the order in which players contribute}*
+
+As a protagonist participates in stories, he will earn **experience** that can be spent to **grow** as a character.
 
 # Resources & Advantages (Assets?)
 people places things ideas
@@ -53,6 +59,11 @@ if they have no durability, they're advantages.
 
 Relationships between main characters and between them and the principal are a special kind of resource.
     What matters is the stability and reliability of the relationship.  Enemies can have a solid relationship, and when it's "troubled" they need to resolve the uncertainty in the same way that friends who've had a falling out. 
+
+### Additional Cast
+represent conflicts
+embody resources
+support characters and antagonists
 
 # Things to buy
 * a stronger effect
