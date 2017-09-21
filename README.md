@@ -12,16 +12,16 @@ A description of the physical equipment needed to play it.
 - [X] Table Setup
 ### [Dramatis Personæ](./dramatis_personae.md)
 A description of the various characters and their mechanical elements.
-- [X] The Player Character
+- [X] protagonists
 - [X] Signature
 - [X] Destiny
-- [ ] Rally
-- [ ] Ratings and Rings
-- [X] Conditions
-- [ ] The Principal Character
-- [ ] Additional Cast
+- [X] Rally
+- [X] Ratings and Rings
+- [X] Complications
+- [X] Principal
 - [ ] Relationships
 - [ ] Other Assets
+- [ ] Additional Cast
 - [ ] Straining a Resource
 ### [The Play](./the_play.md)
 A description of the course of play.
