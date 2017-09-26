@@ -70,6 +70,9 @@ types of advantages
 | allies | rescue/recruit |
 | belief | doubt |
 
+eucatastrophe
+hubris / nemisis
+
 ### Additional Cast
 represent conflicts
 embody resources
