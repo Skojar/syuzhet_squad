@@ -59,6 +59,12 @@ people places things ideas
 the face describes them and indicated their durability.
 the reverse indicates the kind of problem that 
 if they have no durability, they're advantages.
+types of advantages
+* motif
+* setting
+* equipment
+* allies
+* belief
 
 ### Additional Cast
 represent conflicts
