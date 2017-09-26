@@ -58,13 +58,14 @@ Relationships between main characters and between them and the principal are a s
 people places things ideas
 the face describes them and indicated their durability.
 the reverse indicates the kind of problem that 
+*reversal is called peripeteia*
 if they have no durability, they're advantages.
 types of advantages
-* motif
-* setting
-* equipment
-* allies
-* belief
+| motif | anagnorisis |
+| setting | adapatation |
+| equipment | acquisition |
+| allies | rescue/recruit |
+| belief | doubt |
 
 ### Additional Cast
 represent conflicts
