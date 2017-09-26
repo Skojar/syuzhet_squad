@@ -61,6 +61,7 @@ the reverse indicates the kind of problem that
 *reversal is called peripeteia*
 if they have no durability, they're advantages.
 types of advantages
+
 | motif | anagnorisis |
 | setting | adapatation |
 | equipment | acquisition |
