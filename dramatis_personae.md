@@ -62,6 +62,8 @@ the reverse indicates the kind of problem that
 if they have no durability, they're advantages.
 types of advantages
 
+| resource | shift |
+|:---:|:---:|
 | motif | anagnorisis |
 | setting | adapatation |
 | equipment | acquisition |
