@@ -38,7 +38,7 @@ In all good stories, characters experience highs and lows, and change over time.
 
 There are a few different ways to approach this aspect of her character. She could explore how the character deals with adversity with more straightforward **complications** like _injured_ or _befuddled_.  These  indicate that the he is normally in good health and clearheaded, respectively. Alternatively, she could indicate that the character is especially susceptible to some failing or vice particular to him, with  **complications** like _enraged_, _panicked_, or _solipsistic_.  For many characters, however, it makes sense to have **complications** that represent some special quality inherent in the character.  A character that is normally invulnerable to harm, for instance, might have a complication like _vulnerable_, and a character who relies on the  use of swords or guns extensively might have a complication like _disarmed_.  Remember, these aren't necessarily problems that the character regularly faces in some hypothetical everyday life, but are instead things that the character should face in a story where he is called upon to face extraordinary challenges and circumstances that are appropriate to him as a character (though they might be the former as well).  There's no reason why a protagonist's **complications** and **gimmick** can overlap, but the interpretation of that overlap should be something a player considers ahead of time.
 
-In play, **complications** describe situations that hinder or complicate action, but don't necessarily prevent it.  As with **signatures move**s, the most important thing is to choose challenges that the player is enthusiastic to describe her character suffering, or problems she's like to see him deal with.  A new charcter should be given three **complications**, but may gain more as he grows.
+In play, **complications** describe situations that hinder or complicate action, but don't necessarily prevent it.  As with **signatures move**s, the most important thing is to choose challenges that the player is enthusiastic to describe her character suffering, or problems she's like to see him deal with.  A new charcter starts with a *complexity* of three (3), meaning that he should be given three **complications**, but may gain more as he grows.
 
 When a rule asks a player to **gain a complication** at a given rating, she should look select from the list a **complication** with no **empty rings** next to it, and add a number of **empty rings** equal to the rating.  If there are no **complications** on the list without **empty rings**, she cannot **gain a complication**.  An alternative may be prescirbed by the rule in question, but if not the defulat alternative is to **enter a crisis**.
 
@@ -81,12 +81,12 @@ support characters and antagonists
 As a protagonist participates in stories, he will earn **experience** that can be spent to **grow** as a character.
 
 # Things to buy
-* a stronger effect
-* ~additional uses of signature~
-* additional signatures
+* a stronger effect during play
+* ~additional uses of gimmick~
+* additional gimmicks
 * additional beats
 * advancement
-    * additional complications
-    * upgraded resources
+    * additional complications (increased *complexity*)
+    * upgraded resources (increased *artha*)
     * destiny (but what does it do?)
-    * protection from complications? mitigation
+    * protection from complications? mitigation ( aka *moksha*)
