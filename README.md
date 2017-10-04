@@ -19,10 +19,25 @@ A description of the various characters and their mechanical elements.
 - [X] Ratings and Rings
 - [X] Complications
 - [X] Principal
-- [ ] Relationships
-- [ ] Other Assets
-- [ ] Additional Cast
+- [ ] Character Growth
+  - [ ] Complexity
+  - [ ] Artha
+  - [ ] Moksha
+### The Plot
+A description of various story elements.
+- [ ] Agones & Assets
 - [ ] Straining a Resource
+- [ ] Relationships
+- [ ] Additional Cast
+- [ ] Resolving a conflict
+- [ ] Basic Beat Resolution
+- [ ] Successes
+- [ ] Failures & Obstacles
+- [ ] Conditional Successes
+- [ ] Restraints
+### [Actions](./glossary.md)
+A gloassary of the various actions available to players.
+- [ ] Flourishes (press your luck)
 ### [The Play](./the_play.md)
 A description of the course of play.
 - [X] Prologue
@@ -30,14 +45,8 @@ A description of the course of play.
 - [X] Act II
 - [X] Act III
 - [X] Epilogue
-### [Story Elements](./glossary.md)
-A glossary of technical terms and procedures used in the preceding.
-- [ ] Options
-- [ ] Goals
-- [ ] Obstacles
-- [ ] Restraints
-- [ ] Complications
-- [ ] Beat Resolution
-- [ ] Flourishes (press your luck)
+
+
+
 
 
