@@ -3,14 +3,14 @@ The Compact Syuzheteering Handbook
 
 Syuzheteering is a GM-ful storymaking game.
 
-### [What you need to play](./what_you_need.md)
+### [What you need to play](./1_what_you_need.md)
 A description of the physical equipment needed to play it.
 - [X] The Players
 - [X] Dice
 - [X] Cards
 - [X] Tokens, Markers, and Counters
 - [X] Table Setup
-### [Dramatis Personæ](./dramatis_personae.md)
+### [Dramatis Personæ](./2_dramatis_personae.md)
 A description of the various characters and their mechanical elements.
 - [X] protagonists
 - [X] Signature
@@ -23,7 +23,7 @@ A description of the various characters and their mechanical elements.
   - [ ] Complexity
   - [ ] Artha
   - [ ] Moksha
-### The Plot
+### [The Plot](./3_the_plot.md)
 A description of various story elements.
 - [ ] Agones & Assets
 - [ ] Straining a Resource
@@ -35,10 +35,10 @@ A description of various story elements.
 - [ ] Failures & Obstacles
 - [ ] Conditional Successes
 - [ ] Restraints
-### [Actions](./glossary.md)
+### [Actions](./4_actions.md)
 A gloassary of the various actions available to players.
 - [ ] Flourishes (press your luck)
-### [The Play](./the_play.md)
+### [The Play](./5_the_play.md)
 A description of the course of play.
 - [X] Prologue
 - [X] Act I
