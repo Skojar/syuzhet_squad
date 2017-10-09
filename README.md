@@ -16,11 +16,11 @@ A description of the various characters and their mechanical elements.
 - [ ] Adjectives
 - [X] Gimmicks
 - [x] Statistics
-   [X] Artha
-   [X] Complexity
-   [X] Destiny
-   [X] Mukti
-   [X] Rally
+   * [X] Artha
+   * [X] Complexity
+   * [X] Destiny
+   * [X] Mukti
+   * [X] Rally
 - [X] Ratings and Rings
 - [X] Complications
 - [X] Principal
