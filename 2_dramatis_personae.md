@@ -30,19 +30,24 @@ Each **protagonist** has a single so-called **gimmick** that represents a specia
 
 #### Statistics:
 Each protagonist has a number of numberical statistics that are used throughout play.
+
 * Artha
 
 Prosperity, profit, etc.  To what degree the character can bring outside support and resources to bear to overcome challenges.
 Artha is earned by overcoming **agones**, and spent to buy **assets**.  In standard play, each character begins with five (5) **artha**.  **Artha** is treated as currency during play.  As they are spent, they are essentially lost, invested in the **assets** purchased by them. As such, it's sometimes easier to use tokens during a session, and merely record a balance on a character record for between sessions.
+
 * Complexity
 
 The 'roundness' of the character.  To what degree the character has flaws and opprotunities for growth.  Complexity is earned by pushing the character's limits and attempting things that are difficult, and spent to turn failure into success by transforming and internalizing conflict.  In standard play, each character begins with a **complexity** of three (3).  **Complexity** almost always increases, so it can be tracked with tally marks.
-* Mukti
 
-Wisom, detachment, self-knowledge.  To what degree to which the character overcome adversity and persevere.  Mukti is earned by renouncing Artha and Complexity.  In standard play, characters don't begin with **mukti**.  Their **mukti** is zero (0). **Mukti** can also be tracked with tally marks, as it doesn't decrease.
 * Destiny
 
-Glory, import, or impact. To what degree the characters actions are potentially momentous. Destiny accumulates as a character successfully behaves as he is meant to.  In standard play, each character begins with a **destiny** of one (1).  Like **mukti**, **destiny** doesn't decrease and so can be tracked with tally marks.
+Glory, import, or impact. To what degree the characters actions are potentially momentous. Destiny accumulates as a character successfully behaves as he is meant to.  In standard play, each character begins with a **destiny** of one (1).  **Destiny** doesn't decrease and so can be tracked with tally marks.
+
+* Mukti
+
+Wisom, detachment, self-knowledge.  To what degree to which the character overcome adversity and persevere.  Mukti is earned by renouncing Artha and Complexity.  In standard play, characters don't begin with **mukti**.  Their **mukti** is zero (0). Like **destiny**, **mukti** can also be tracked with tally marks.
+
 * Rally
 
 The amplitude of the ebb and flow of the story.  As a character suffers adversity, his rally increases, which allows him to make more rapid progress in overcoming future adversity. In standard play, each character begins with a **rally** of two (2).
@@ -57,6 +62,7 @@ When a rule asks a player to add a **ring** to something, it means to to draw an
 In addition to the **protagonists**, the players might choose to include a **principal** as well.  A **principal** has all the same elements as a **protagonist**, but is not exclusive to any individual player.  As such, all the players should agree to including a **principal**, and should play an equal part in his creation.
 
 *{formal rules to create a principal among multiple people?}*
+
 *{maybe use destiny to determine some stats and the order in which players contribute}*
 
 ***
