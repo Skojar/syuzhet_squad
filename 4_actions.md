@@ -123,8 +123,19 @@ These are prompts from which the core story will be developed.  They are the roo
     
     
 ## Obstacles
-## Types of Complications
+## Complications
 angry, upset, shaken, depressed, disarmed, disconnected, confused, vulnerable, obsessed, injured, distracted, embarassed, conflicted, weakened, harrowed, distress ed, hobbled
+
+In all good stories, characters experience highs and lows, and change over time.  **complications** are the ways that this happens in the game.  In practice, a **complication** can be anything bad that can happen to cause trouble for a character or frustrate his efforts to act as he normally would. A character card includes a list of **complications** of a set length.  Each **complication** representing a issue that the character can struggle during the game.  When a player creates a new protagonist, she should give him three (3) **complications**.
+
+There are a few different ways to approach this aspect of her character. She could explore how the character deals with adversity with more straightforward **complications** like _injured_ or _befuddled_.  These  indicate that the he is normally in good health and clearheaded, respectively. Alternatively, she could indicate that the character is especially susceptible to some failing or vice particular to him, with  **complications** like _enraged_, _panicked_, or _solipsistic_.  For many characters, however, it makes sense to have **complications** that represent some special quality inherent in the character.  A character that is normally invulnerable to harm, for instance, might have a complication like _vulnerable_, and a character who relies on the  use of swords or guns extensively might have a complication like _disarmed_.  Remember, these aren't necessarily problems that the character regularly faces in some hypothetical everyday life, but are instead things that the character should face in a story where he is called upon to face extraordinary challenges and circumstances that are appropriate to him as a character (though they might be the former as well).  There's no reason why a protagonist's **complications** and **gimmick** can overlap, but the interpretation of that overlap should be something a player considers ahead of time.
+
+In play, **complications** describe situations that hinder or complicate action, but don't necessarily prevent it.  As with **signatures move**s, the most important thing is to choose challenges that the player is enthusiastic to describe her character suffering, or problems she's like to see him deal with.  A new charcter starts with a *complexity* of three (3), meaning that he should be given three **complications**, but may gain more as he grows.
+
+When a rule asks a player to **gain a complication** at a given rating, she should look select from the list a **complication** with no **empty rings** next to it, and add a number of **empty rings** equal to the rating.  If there are no **complications** on the list without **empty rings**, she cannot **gain a complication**.  An alternative may be prescirbed by the rule in question, but if not the defulat alternative is to **enter a crisis**.
+
+**Crises** are a special story element that have a rating just like **complications**.  They get their own card, turned perpendicular to the direction the player is facing, to indicate what role they play.  That role fits the situations they are meant to represent:  those in which the character's actions are seriously limited, such as being tied up, unconscious, or trapped.  Together, **complications** and **crises** represent things in the story that are happening to a particular character rather than shared among all the characters.
+
 ## Types of Hurdles
 trapped, crippled, unconscious, despondent, restrained, seperated
 
