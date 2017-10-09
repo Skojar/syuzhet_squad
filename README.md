@@ -13,16 +13,18 @@ A description of the physical equipment needed to play it.
 ### [Dramatis Personæ](./2_dramatis_personae.md)
 A description of the various characters and their mechanical elements.
 - [X] protagonists
-- [X] Signature
-- [X] Destiny
-- [X] Rally
+- [ ] Adjectives
+- [X] Gimmicks
+- [x] Statistics
+   [X] Artha
+   [X] Complexity
+   [X] Destiny
+   [X] Mukti
+   [X] Rally
 - [X] Ratings and Rings
 - [X] Complications
 - [X] Principal
 - [ ] Character Growth
-  - [ ] Complexity
-  - [ ] Artha
-  - [ ] Moksha
 ### [The Plot](./3_the_plot.md)
 A description of various story elements.
 - [ ] Agones & Assets
