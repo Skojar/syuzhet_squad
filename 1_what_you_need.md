@@ -26,6 +26,7 @@ Finally, players will be called upon to manipulate various physical tokens, mark
 * **beat counters**: These should be easy to see, pickup and move, but stable. Jacks work well. Again, you will need as many as there are players, but these should all be the same.
 * **destiny tokens**: Something like poker chips works well.  You will need maybe a couple dozen total. 
 * **experience tokens**: Something small like go stones, pennies, or bingo chips.  You are likely to need about a half-score per player.  
+* **artha tokens**: Just like experince tokens, but of a different color.
 
 With the exception of the **presence markers**, these should be set aside to be put into and removed from play as needed, perhaps in bowls or similar shallow containers.
 
